@@ -111,7 +111,7 @@ export const Header: React.FC = () => {
                   top: "7px",
                 }}
                 src="/assets/images/me.JPG"
-                alt="Nighil Logo"
+                
               />
             </StyledAvatarInner>
           </StyledAvatar>
@@ -180,7 +180,7 @@ const DrawerContent: React.FC<NavProps> = ({ data, Scroll, desktop }) => {
               top: "7px",
             }}
             src="/assets/images/me.JPG"
-            alt="Nighil Logo"
+           
           />
         </StyledAvatarInner>
       </StyledAvatar>

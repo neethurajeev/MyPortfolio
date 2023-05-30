@@ -81,10 +81,10 @@ export const Hero: React.FC = () => {
             </m.div>
             <m.div variants={varFade().inLeft}>
               <Box sx={{ display: "flex", flexDirection: "row", gap: 1 }}>
-                <Typography variant="h1" sx={{ fontSize: "50px", mb: 4, color: "text.secondary" }}>
+                <Typography variant="h1" sx={{ width:"150px",fontSize: "50px", mb: 4, color: "text.secondary" }}>
                   Hi, I’m
                 </Typography>
-                <Typography variant="h1" sx={{ fontSize: "50px", mb: 4 }}>
+                <Typography variant="h1" sx={{  width:"550px",fontSize: "50px", mb: 3 }}>
                   Neethu Rajeev
                 </Typography>
               </Box>
