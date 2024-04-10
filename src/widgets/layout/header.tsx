@@ -110,7 +110,7 @@ export const Header: React.FC = () => {
                   position: "absolute",
                   top: "7px",
                 }}
-                src="/assets/images/mypic.JPG"
+                src="/assets/images/mypic.jpeg"
                 
               />
             </StyledAvatarInner>
@@ -179,7 +179,7 @@ const DrawerContent: React.FC<NavProps> = ({ data, Scroll, desktop }) => {
               position: "absolute",
               top: "7px",
             }}
-            src="/assets/images/mypic.JPG"
+            src="/assets/images/mypic.jpeg"
            
           />
         </StyledAvatarInner>
