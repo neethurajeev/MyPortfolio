@@ -67,7 +67,7 @@ export const Header: React.FC = () => {
   const handleDownload = () => {
     const link = document.createElement("a");
     link.href = `/assets/pdf/NeethuRajeevFrontEndDeveloper.pdf`;
-    link.download = "NeethuRajeevFrontEndDeveloper.pdf";
+    link.download = "NeethuRajeev.pdf";
     link.target = "_blank";
 
     document.body.appendChild(link);
