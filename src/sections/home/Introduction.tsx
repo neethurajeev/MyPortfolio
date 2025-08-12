@@ -13,7 +13,7 @@ const IntroD: IntroProps = [
     heading: "About me...",
     description: [
       {
-        desc: "As a Front End Developer, I combine my love for coding with my passion for design to create beautiful and functional websites. I specialize in creating responsive and user-friendly interfaces for websites and applications.",
+        desc: "With over 5 years of professional experience in both front-end and back-end development, I bring a full-stack perspective to every project I work on. I combine a strong eye for design with a deep understanding of modern web technologies to build responsive, user-focused websites and applications that are as functional as they are visually engaging.",
       },
       {
         desc: "Throughout my career, I have had the opportunity to work on a variety of projects, from small business websites to large-scale applications used by millions of users. I am passionate about web design and development, and I am always looking for new and innovative ways to improve the user experience.",
