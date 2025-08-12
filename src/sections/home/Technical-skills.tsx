@@ -79,6 +79,7 @@ const Skills: SkillProps[] = [
       { title: "Tailwindcss" },
       { title: "HTML5" },
       { title: "CSS" },
+      { title: "WordPress" },
       { title: "SASS" },
       { title: "BOOTSTRAP" },
       { title: "Ajax" },
