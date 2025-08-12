@@ -29,7 +29,14 @@ const ProjectsData: ProjectProbs = [
     link: "https://github.com/neethurajeev/BankApp.git",
     button: "Live",
   },
-  
+    {
+    name: "BankApp",
+    img: "bank.jpg",
+    desc: "It allow you to access your banking accounts and conduct financial transactions using a mobile device, anytime and from anywhere.",
+    lang: [{ lan: "#ReactJs" }, { lan: "#Redux" }, { lan: "#Axios" }],
+    link: "https://github.com/neethurajeev/BankApp.git",
+    button: "Live",
+  },
 ];
 
 export const Projects = () => {
