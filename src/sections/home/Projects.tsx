@@ -15,7 +15,6 @@ type ProjectProbs = {
 const ProjectsData: ProjectProbs = [
   {
     name: "Dr Hero",
-    img: "drhero.png",
     desc: "Dr.Hero takes care of physical health. Book a video appointment for you or your child with one of our doctors  at a time and place that's convenient for you. Telehealth consultations anywhere in the world. ",
     lang: [{ lan: "#ReactTs" },{ lan: "#NextJs" }, { lan: "#MongoDB" }, { lan: "#NodeJs" }],
     link: "https://drhero.ae/",
